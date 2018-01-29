@@ -20,14 +20,17 @@ class PizzaOnline extends CI_Controller {
 	 */
 	public function home()
 	{
+		$this->load->view('includes/header');
 		$this->load->view('pages/index');
 	}
 
 	public function about(){
+		$this->load->view('includes/header');
 		$this->load->view('pages/about');
 	}
 
 	public function contact(){
+		$this->load->view('includes/header');
 		$this->load->view('pages/contact');
 	}
 }
