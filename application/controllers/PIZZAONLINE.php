@@ -33,4 +33,13 @@ class PizzaOnline extends CI_Controller {
 		$this->load->view('includes/header');
 		$this->load->view('pages/contact');
 	}
+
+	public function login(){
+		$this->load->view('includes/header');
+		$this->load->view('pages/login');
+	}
+	public function signup(){
+		$this->load->view('includes/header');
+		$this->load->view('pages/signup');
+	}
 }

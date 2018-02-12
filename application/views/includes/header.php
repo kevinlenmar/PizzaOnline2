@@ -26,8 +26,8 @@
 							<li><a href="<?php echo base_url();?>home">Home</a></li>
 							<li><a href="<?php echo base_url();?>about">About</a></li>
 							<li><a href="<?php echo base_url();?>contact">Contact</a></li>
-							<li><a href="">Login</a></li>
-							<li><a href="">Sign Up</a></li>
+							<li><a href="<?php echo base_url();?>login">Login</a></li>
+							<li><a href="<?php echo base_url();?>signup">Sign Up</a></li>
 						</ul>
 					</div>
 				</nav>

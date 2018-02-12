@@ -2,23 +2,35 @@
 	<div class="container">
 		<div class="contact-info">
 			<h3 class="title">How to find Us</h3>
-			<p>Lorem ipsum dolor sit amet consectetur adipiscing elit in id malesuada lectus aenean convallis interdum gravida donec faucibus bibendum tortor vel facilisis.</p>
+			<p>You can find us in the map below by clicking the red icons or by viewing the address below the map.</p>
 		</div>
 		<div class="map">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d158858.18237072596!2d-0.10159865000003898!3d51.52864165000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1436514341845" allowfullscreen></iframe>
+			<iframe src="https://www.google.com/maps/embed/v1/search?key=AIzaSyAO-BbQd0djkaxtWseXtQLwI96MxZys2C0&q=alberto's+pizza+in+cebu" allowfullscreen></iframe>
 		</div>
 		<div class="mail-grids">
 			<div class="col-md-6 mail-grid-left">
 				<h3 class="title">Address</h3>
-				<h5>Cras porttitor imperdiet volutpat nulla malesuada lectus eros <span>ut convallis felis consectetur ut </span></h5>
+				<h5>These are the list of all Alberto's Pizza in Cebu with their location and contact numbers.</h5>
 				<h4>Punta</h4>
 				<p>97 Francisco Llamas St, Cebu City, Cebu</p>
 				<h4>Basak Pardo</h4>
 				<p>Natalio B. Bacalso Ave, Cebu City, 6000 Cebu</p>
+				<p>(032) 268 7678</p>
 				<h4>Mambaling</h4>
 				<p>Mambaling Cebu South Road, Cebu City, Cebu</p>
+				<p>0920 244 9556</p>
 				<h4>Pahina Central Colon</h4>
 				<p>BBQ sa Colon, Colon St., Cebu City, 6000, Cebu, Cebu City, Cebu</p>
+				<p>(032) 505 0395</p>
+				<h4>San Antonio</h4>
+				<p>J.T. Montesclaros Bldg. 3, P. Del Rosario St., ( in front of USC main), Cebu City, 6000, Cebu, Pantaleon del Rosario St, Cebu City, Cebu</p>
+				<p>(032) 254 7899</p>
+				<h4>Capitol Site</h4>
+				<p>15 B. Rodriguez St, Cebu City, Cebu</p>
+				<p>(032) 254 0042</p>
+				<h4>Zapatera</h4>
+				<p>83 Sepulvida Street, Cebu City, 6000 Cebu</p>
+				<p>(032) 505 0395</p>
 			</div>
 		</div>
 	</div>

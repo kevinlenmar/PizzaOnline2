@@ -29,8 +29,8 @@
 				<img src="assets/dist/images/boy-logro.jpg" alt="">
 				<h6>Boy Logro</h6>
 				<p>Logro was first known as being a presenter of the daytime cooking show Chef Boy Logro: Kusina Master. Logro owns the Chef Logro's Institute of Culinary and Kitchen Services.
-				In 2013, Logro will star the film The Fighting Chefs wherein he will portray as an action star.
-				Logro also hosts another cooking show Idol sa Kusina which airs on Channel 11, GMA News TV.</p>
+					In 2013, Logro will star the film The Fighting Chefs wherein he will portray as an action star.
+					Logro also hosts another cooking show Idol sa Kusina which airs on Channel 11, GMA News TV.</p>
 				</div>
 				<div class="col-md-3 team-grid">
 					<img src="assets/dist/images/MainPagePhoto.jpg" alt="">
